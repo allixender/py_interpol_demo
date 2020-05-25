@@ -25,7 +25,6 @@ dependencies:
   - requests
   - rtree
   - scikit-learn
-  - scikit-spatial
   - scipy
   - seaborn
   - shapely
