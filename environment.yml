@@ -32,4 +32,5 @@ dependencies:
   - urllib3
   - poppler
   - lxml
+  - rasterio
 
