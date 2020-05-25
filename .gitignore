@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+catchments_interp*
+*.tif
+idw_basic_rasterout1*
+ilmateenistus_airtemp_stations.*
+ilmateenistus_precip_stations.*
+kdtree_precip*
+kdtree_rasterout1*
+rbf_rasterout1*
+
 # Distribution / packaging
 .Python
 build/

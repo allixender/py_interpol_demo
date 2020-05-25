@@ -1,0 +1,36 @@
+name: idw-env
+channels:
+  - conda-forge
+  
+dependencies:
+  - python=3.7
+  - fiona
+  - gdal
+  - geographiclib
+  - geojson
+  - geopandas
+  - geos
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyter_client
+  - matplotlib
+  - numpy
+  - owslib
+  - pandas
+  - pillow
+  - proj4
+  - pyproj
+  - requests
+  - rtree
+  - scikit-learn
+  - scikit-spatial
+  - scipy
+  - seaborn
+  - shapely
+  - toolz
+  - urllib3
+  - poppler
+  - lxml
+
